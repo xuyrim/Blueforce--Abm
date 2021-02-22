@@ -31,11 +31,6 @@ Password : Abm
 termux
 linux
 ```
-# Note
-```
-If you copy my scripts or edit my scripts,so i will fuck your ass
-So do not copy my scripts
-```
 # Author
 ```
 Alone codder : Tech Abm
